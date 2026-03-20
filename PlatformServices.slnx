@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/src/Services/AuthService/">
+    <Project Path="src/Services/AuthService/AuthService.Domain/AuthService.Domain.csproj" />
+    <Project Path="src/Services/AuthService/AuthService.WebApi/AuthService.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/OrderService/">
+    <Project Path="src/Services/OrderService/OrderService.Domain/OrderService.Domain.csproj" />
+    <Project Path="src/Services/OrderService/OrderService.WebApi/OrderService.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/NotificationService/">
+    <Project Path="src/Services/NotificationService/NotificationService.Domain/NotificationService.Domain.csproj" />
+    <Project Path="src/Services/NotificationService/NotificationService.WebApi/NotificationService.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/src/Common/">
+    <Project Path="src/Common/PlatformServices.Common/PlatformServices.Common.csproj" />
+  </Folder>
+  <Folder Name="/src/Gateway/">
+    <Project Path="src/Gateway/PlatformServices.Gateway/PlatformServices.Gateway.csproj" />
+  </Folder>
+</Solution>
