@@ -54,7 +54,7 @@ This repo is part of StormBoard's topology detection test suite:
 | [discovery-testbed-modular-monolith](https://github.com/thurley1/discovery-testbed-modular-monolith) | ModularMonolith |
 | **[discovery-testbed-multi-service](https://github.com/thurley1/discovery-testbed-multi-service)** | **MonorepoMultiService** |
 | [discovery-testbed-white-label-dirs](https://github.com/thurley1/discovery-testbed-white-label-dirs) | WhiteLabelDirectories |
-| [variant-analysis-testbed](https://github.com/thurley1/variant-analysis-testbed) | WhiteLabelBranches |
+| [discovery-testbed-white-label-branches](https://github.com/thurley1/discovery-testbed-white-label-branches) | WhiteLabelBranches |
 | [discovery-testbed-micro-orders](https://github.com/thurley1/discovery-testbed-micro-orders) | Microservices (3-repo set) |
 | [discovery-testbed-micro-customers](https://github.com/thurley1/discovery-testbed-micro-customers) | Microservices (3-repo set) |
 | [discovery-testbed-micro-inventory](https://github.com/thurley1/discovery-testbed-micro-inventory) | Microservices (3-repo set) |
